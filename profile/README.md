@@ -33,13 +33,3 @@
 
 ---
 *📍 Based in Switzerland | 📧 Contact: flexio.systems@gmail.com*
-
-### 🛠️ Core Technology Stack
-
-* **Infrastructure:** Docker, AWS Cloud
-* **Backend:** Python, FastAPI, SQL
-* **Intelligence:** PyTorch, LLM Integrations
-* **Interface:** Streamlit (Conversational & Visual)
-
----
-*📍 Based in Switzerland | 📧 Contact: flexio.systems@gmail.com*
