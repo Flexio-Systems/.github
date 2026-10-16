@@ -9,8 +9,8 @@
 
 ### 🧩 The "Double Elastic" Model / Das "Doppelt Elastische" Modell
 
-At Flexio, we believe in the end of traditional bloatware. Our architecture is based on two core principles:
-Bei Flexio glauben wir an das Ende der klassischen Bloatware. Unsere Architektur basiert auf zwei Grundprinzipien:
+**EN:** At Flexio, we believe in the end of traditional bloatware. Our architecture is based on two core principles:
+**DE:** Bei Flexio glauben wir an das Ende der klassischen Bloatware. Unsere Architektur basiert auf zwei Grundprinzipien:
 
 1. **Elastic Software:** You only install the plugins you need on top of our bulletproof Core Container. 
 2. **Elastic Pricing:** Pay strictly for the modules and volume you consume. 
@@ -23,6 +23,16 @@ Bei Flexio glauben wir an das Ende der klassischen Bloatware. Unsere Architektur
 **DE:** Unsere Systeme integrieren fortschrittliche Conversational AI, geschützt durch strenge rollenbasierte Zugriffskontrollen (RBAC) und Schweizer SLA/nDSG-Compliance. Steuern Sie Ihre Daten natürlich, mit "Human-in-the-loop"-Validierung für kritische Aktionen.
 
 ---
+
+### 🛠️ Core Technology Stack / Technologie-Stack
+
+* **Infrastructure:** Docker, AWS Cloud
+* **Backend:** Python, FastAPI, SQL
+* **Intelligence:** PyTorch, LLM Integrations
+* **Interface:** Streamlit (Conversational & Visual)
+
+---
+*📍 Based in Switzerland | 📧 Contact: flexio.systems@gmail.com*
 
 ### 🛠️ Core Technology Stack
 
